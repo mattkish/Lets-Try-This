@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 268 287">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#linear-gradient-10);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15 {
+        stroke-width: 4.2px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: url(#linear-gradient-12);
+      }
+
+      .cls-3 {
+        stroke: url(#linear-gradient-13);
+      }
+
+      .cls-4 {
+        stroke: url(#linear-gradient-11);
+      }
+
+      .cls-5 {
+        stroke: url(#linear-gradient-14);
+      }
+
+      .cls-6 {
+        stroke: url(#linear-gradient-16);
+      }
+
+      .cls-7 {
+        stroke: url(#linear-gradient-15);
+      }
+
+      .cls-8 {
+        stroke: url(#linear-gradient-3);
+      }
+
+      .cls-9 {
+        stroke: url(#linear-gradient-4);
+      }
+
+      .cls-10 {
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-11 {
+        stroke: url(#linear-gradient-7);
+      }
+
+      .cls-12 {
+        stroke: url(#linear-gradient-6);
+      }
+
+      .cls-13 {
+        stroke: url(#linear-gradient-5);
+      }
+
+      .cls-14 {
+        stroke: url(#linear-gradient-9);
+      }
+
+      .cls-15 {
+        stroke: url(#linear-gradient-8);
+      }
+
+      .cls-16 {
+        stroke: url(#linear-gradient);
+        stroke-width: 4px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="485.8" y1="53.3" x2="485.8" y2="53.3" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#297d79"/>
+      <stop offset="1" stop-color="#0977a7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="194.2" y1="249.8" x2="228.9" y2="285.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="171.8" y1="231.6" x2="196.1" y2="256.6" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="180.5" y1="200.2" x2="218.1" y2="238.9" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="221.2" y1="201.6" x2="245" y2="226.1" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="152.6" y1="128.1" x2="199.5" y2="176.3" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="196.1" y1="156.5" x2="215.1" y2="176" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="81.2" y1="58.9" x2="92.3" y2="70.3" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="261.4" y1="237" x2="261.4" y2="237" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-10" x1="285" y1="259.9" x2="285" y2="259.9" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-11" x1="139.1" y1="129.9" x2="251.9" y2="246" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-12" x1="127.4" y1="192" x2="224.9" y2="292.3" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-13" x1="47.8" y1="-4.1" x2="169.6" y2="121.2" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-14" x1="220.8" y1="197.3" x2="225.9" y2="202.6" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-15" x1="124.5" y1="49.7" x2="146.5" y2="72.3" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-16" x1="78.8" y1="80.3" x2="78.8" y2="80.3" xlink:href="#linear-gradient"/>
+  </defs>
+  <path class="cls-16" d="M485.8,53.3"/>
+  <polyline class="cls-10" points="187.3 279.9 187.9 276.7 198.4 248.8 207.9 241 216.5 240 218.4 241.3 219.6 242 224.7 245.4 229.9 256.8 233 268.7 235.5 274.3 236.9 277"/>
+  <line class="cls-8" x1="173.3" y1="230.4" x2="194.5" y2="257.8"/>
+  <polyline class="cls-9" points="216.5 240 197.4 213.4 178.8 202.8"/>
+  <polyline class="cls-13" points="203.6 221.6 223.7 202.9 258.9 207.7 262 207.2"/>
+  <polyline class="cls-12" points="178.5 194 188.8 170.7 188.7 169.1 188.6 166.3 187 135.1 180.6 119.6 174 114.1 170.3 111.6"/>
+  <polyline class="cls-11" points="188.6 166.3 198.9 164.1 219.2 166.4 222.6 166.8"/>
+  <polyline class="cls-15" points="95.5 47.9 93 50.6 83.5 61 79.8 77.4 79 80.7"/>
+  <path class="cls-14" d="M261.4,237"/>
+  <path class="cls-1" d="M285,259.9"/>
+  <polyline class="cls-4" points="219.6 242 228.1 227.5 261.5 229.4 264.4 229.5 262 207.2 253.6 179.8 249.8 171.8 240.4 173.6 227.5 194.4 223 196.9 213.9 192.6 211.2 187.8 211.6 178.3 222.6 166.8 228.9 160.2 232.4 150.9 232.1 133.7 228 127.8 231.6 119.1 228.9 114 184.5 89 177.1 98.4 179.9 107.3 170.3 111.6 166.4 113.3 164.9 133.4 160.4 137.9 153.8 137.1 151 130.6 152.2 121.4 138.9 136.4 134.8 153.2 130.5 168 126.5 187.3 126.6 194 130 194 178.5 194 178.8 202.8 173.3 230.4 140.6 237.3 136.9 236.6"/>
+  <polyline class="cls-2" points="126.6 194 134.5 214.3 137.5 225.6 136.9 236.6 132.5 256.2 128.4 263.1 124.3 267.6 122.1 274 118.5 282.7 187.3 279.9 191.1 279.7 191.4 282.9 233.9 280.5 236.9 277 240 273.2 245.6 258.3 248 250.1 254.3 244.5 263.6 240.2 264.4 229.5"/>
+  <polygon class="cls-3" points="184.1 73.1 173.7 67.6 160.3 67.5 156.1 72.9 141.6 74.4 122.1 89.9 116.7 89 111.9 79.6 105.1 81.4 92.9 107 86.8 96.8 84.5 86.2 81.3 82.2 79 80.7 76 78.8 70.4 70.5 57.9 69.1 45.6 66.2 11.5 53.2 6.2 46.2 3.5 44.2 13.3 41.4 17.9 37.7 23.3 32.1 37.4 31.2 44.8 25.2 49.4 23.7 53.7 16.8 72.5 3.3 82.2 3.9 85.6 3.7 80 9.2 75.7 11.4 64.2 35.5 77.6 34.1 82.8 34 88.2 37.1 92.7 43 95.5 47.9 97.1 50.7 104.7 48.9 110.2 47.8 116.1 49.9 121.9 54.1 127.6 47.3 132.3 43.3 138.4 41.6 145.8 41.2 155.5 41.6 161.7 41.2 165.8 39 168.6 37.9 175.5 37.9 173.9 44.5 174.9 48.3 179.7 51.3 188.6 51.4 194.9 52.6 198 55.8 201.3 62 206.7 68.5 210.8 71.8 199.7 70.7 192.2 71.5 186.4 72 184.1 73.1"/>
+  <line class="cls-5" x1="223" y1="196.9" x2="223.7" y2="202.9"/>
+  <polyline class="cls-7" points="127.6 47.3 129.5 50.3 141.7 64.4 143 69.9 141.6 74.4"/>
+  <path class="cls-6" d="M78.8,80.3"/>
+</svg>
